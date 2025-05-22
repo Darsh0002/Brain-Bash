@@ -108,23 +108,23 @@ java-quiz-app/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/java-quiz-app.git
-cd java-quiz-app
+git clone https://github.com/Darsh0002/BrainBash-Quiz-App.git
+cd BrainBash-Quiz-App
 ```
 
 2. **Compile the code**
 
 ```bash
-javac Quiz.java Rules.java Result.java
+javac WelcomePage.java Quiz.java Rules.java Result.java
 ```
 
 3. **Run the application**
 
 ```bash
-java Quiz
+java WelcomePage
 ```
 
-> 🟢 `Quiz.java` contains the `main` method and launches the GUI.
+> 🟢 `WelcomePage.java` contains the `main` method and launches the GUI.
 
 
 
