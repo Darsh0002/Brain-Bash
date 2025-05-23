@@ -93,7 +93,7 @@ Follow these steps to get a local copy of the project up and running.
 ## 📁 Project Structure
 
 ```
-java-quiz-app/
+BrainBash-quiz-app/
 │
 ├── Quiz.java       # Core quiz functionality, GUI, and question flow
 ├── Rules.java      # Displays instructions before starting the quiz
